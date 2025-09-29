@@ -45,7 +45,7 @@ footer{
     align-content: stretch;
     text-align: center;
 }
-.centrar {
+.cen {
   margin: 0 auto;
   max-width: 300px;
   display: flex;
@@ -59,6 +59,13 @@ footer{
   padding: 0;
   
 }
+.centrar{
+ 
+     margin-left: 400px;
+     margin-right: 400px;
+    
+}
+
 
 .textocentrar {
   text-align: center;
