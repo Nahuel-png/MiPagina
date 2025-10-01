@@ -229,3 +229,32 @@ font-size: 2.8rem;
 text-align: center;
 
 }
+.reseñas{
+max-height: fit-content ;
+display:grid;
+gap: 100px;
+padding: 30%;
+
+
+}
+.card{
+
+grid-template-columns: 40%;
+ padding: 16px; 
+  border: 1px solid #0e9714; 
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+box-shadow: 0 12px 12px rgba(0, 0, 0, 0.15);
+grid-template-columns: 1fr;
+  transform: translateY(-2px);
+  background-color: #0e9714;
+   
+  
+}
+.h3{
+
+
+  font-size: 2.5rem;
+text-align: center;
+}
